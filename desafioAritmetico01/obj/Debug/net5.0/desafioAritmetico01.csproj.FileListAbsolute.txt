@@ -1,0 +1,16 @@
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.csprojAssemblyReference.cache
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.GeneratedMSBuildEditorConfig.editorconfig
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.AssemblyInfoInputs.cache
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.AssemblyInfo.cs
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.csproj.CoreCompileInputs.cache
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\desafioAritmetico01.exe
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\desafioAritmetico01.deps.json
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\desafioAritmetico01.runtimeconfig.json
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\desafioAritmetico01.runtimeconfig.dev.json
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\desafioAritmetico01.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\ref\desafioAritmetico01.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\bin\Debug\net5.0\desafioAritmetico01.pdb
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\ref\desafioAritmetico01.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.pdb
+F:\digitalInnovationOne\workspace\DesafioAritmetico01\desafioAritmetico01\obj\Debug\net5.0\desafioAritmetico01.genruntimeconfig.cache
